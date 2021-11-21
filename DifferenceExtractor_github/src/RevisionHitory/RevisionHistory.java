@@ -8,7 +8,6 @@ package RevisionHitory;
 import common.Difference;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -22,6 +21,8 @@ public class RevisionHistory {
 
     /**
      * とりあえずListを含むDTOの差異検査のみ
+     *
+     * 実験中のコード
      *
      * @param left
      * @param right
