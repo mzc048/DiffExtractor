@@ -9,6 +9,6 @@ package RevisionHitory;
  *
  * @author s-yamasaki
  */
-public class RevisionHistory {
+public class RevisionHistory<T> {
     
 }
