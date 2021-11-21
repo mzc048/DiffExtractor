@@ -7,7 +7,7 @@ package common;
 
 /**
  *
- * @author s-yamasaki
+ * @author mzc048
  */
 public class Difference<O> {
     String itemName;

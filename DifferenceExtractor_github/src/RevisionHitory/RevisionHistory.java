@@ -7,7 +7,7 @@ package RevisionHitory;
 
 /**
  *
- * @author s-yamasaki
+ * @author mzc048
  */
 public class RevisionHistory<T> {
     
